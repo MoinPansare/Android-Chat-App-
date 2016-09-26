@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "919286162605",
+    "project_id": "chat-app-dd385"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919286162605:android:d4c8492b02152f43",
+        "android_client_info": {
+          "package_name": "com.moin.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyBL2Z0HDH58HD1bCHivryC9avDDe0np4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
